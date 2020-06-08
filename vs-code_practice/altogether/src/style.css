@@ -1,0 +1,54 @@
+.header {
+  background: aqua;
+  width: 1000px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.leftside {
+  background: orange;
+  width: 200px;
+  height: 1200px;
+  margin: 0 auto;
+  margin-right: 20px;
+}
+
+.maincontent {
+  background: red;
+  width: 560px;
+  height: 1200px;
+  margin: 0 auto;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.rightside {
+  background: purple;
+  width: 200px;
+  height: 1200px;
+  margin: 0 auto;
+  margin-left: 20px;
+}
+
+.middle {
+  display: flex;
+}
+
+.footer {
+  background: blue;
+  width: 1000px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.blackfixed {
+  background: black;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  z-index: 2;
+  position: absolute;
+  top: 1270px;
+  left: 1020px;
+  margin: 0 auto;
+}

@@ -1,0 +1,31 @@
+main {
+  color: white;
+  text-align: center;
+  width: 250px;
+  height: 250px;
+  font-size: 24px;
+  font-family: 'Balsamiq Sans', cursive;
+  
+}
+
+section {
+  background: #E67676;
+  margin: 0px;
+  border: solid #4285f4 7px;
+  padding: 5px 25px 5px 25px;
+  
+  
+
+}
+
+
+article {
+  margin: 5px 0px 0px 0px;
+  border: solid #4285f4 7px;
+  background: #A9E6E6;
+  padding: 5px 25px 5px 25px;
+  
+
+}
+
+  
